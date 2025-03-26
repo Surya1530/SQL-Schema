@@ -1,1 +1,2 @@
-# SQL-Schema
+# Project: Customer & Inventory Management Database for Online Retail
+Designed and implemented a relational SQL database from scratch to streamline operations for an e-commerce platform. Structured tables for customers, orders, products, and inventory with primary/foreign key relationships to ensure data integrity. Developed SQL queries, stored procedures, and triggers to automate order tracking, stock management, and sales analysis. Enhanced performance through indexing and optimized schema design, enabling real-time business intelligence reporting. Secured data consistency while supporting actionable insights for revenue growth and operational efficiency.
